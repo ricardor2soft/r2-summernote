@@ -7,7 +7,7 @@
     module.exports = factory(require('jquery'));
   } else {
     // Browser globals
-    factory(window.jQuery);
+    factory(window.jquery);
   }
 }(function($) {
   // pull in some summernote core functions
