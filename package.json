@@ -1,7 +1,7 @@
 {
-  "name": "summernote",
+  "name": "r2-summernote",
   "description": "Super simple WYSIWYG editor",
-  "version": "0.8.19",
+  "version": "0.0.1",
   "license": "MIT",
   "keywords": [
     "editor",
